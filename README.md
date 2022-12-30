@@ -1,12 +1,15 @@
 <div class="introduction">
   <h1>Hi, Let Me Introduction</h1>
   <p>Saya adalah seorang pengembang web yang suka belajar dan mencoba hal-hal baru.</p>
-</div> 
-- 👋 Hi, I’m Viro
-- 👀 I’m interested in Here:v
-- 🌱 I’m currently learning all program
-- 💞️ I’m looking to collaborate on ? afk
-- 📫 How to reach me? i dunno:v
+  <ul>
+    <li>👋 Hi, I’m Viro</li>
+    <li>👀 I’m interested in Here:v</li>
+    <li>🌱 I’m currently learning all program</li>
+    <li>💞️ I’m looking to collaborate on ? afk</li>
+    <li>📫 How to reach me? i dunno:v</li>
+  </ul>
+</div>
+
 
 
 
