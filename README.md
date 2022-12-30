@@ -1,5 +1,4 @@
 <div class="introduction">
-  <img src="profil.jpg" alt="Avatar">
   <h1>Hi, Let Me Introduction</h1>
   <p>Saya adalah seorang pengembang web yang suka belajar dan mencoba hal-hal baru.</p>
 </div>
